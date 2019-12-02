@@ -8,7 +8,7 @@ Fibonacci sequence benchmark comparison between JS, Go and Rust.
 
 #### Usage
 
-Just run the shellscript and
+Just run the shellscript like so:
 
 ```sh
   ./run.sh
