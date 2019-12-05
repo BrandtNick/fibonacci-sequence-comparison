@@ -1,5 +1,5 @@
 ## Fibonacci sequence benchmark
-Fibonacci sequence benchmark comparison between JS, Go and Rust.
+Fibonacci sequence benchmark comparison between JS, Go, C and Rust.
 
 #### Installation
 ```sh
