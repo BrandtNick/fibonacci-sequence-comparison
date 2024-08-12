@@ -20,7 +20,7 @@ Running the sequence 50 times generates following result:
 
 ```
 Node.js: 194.76 s
-Go: 
+Go: 62.07 s
 C: 27.54 s
 Rust: 38.36 s
 ```
